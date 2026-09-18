@@ -1,14 +1,10 @@
-
 {
-    "version": "4.3.0",
-    "download_url": "https://github.com/amirulnahrawi/ecr-tool-pro-updates/releases/download/v4.3.0/ECR_Tool_Pro_v4.3.0.zip",
+    "version": "4.3.2",
+    "download_url": "https://github.com/amirulnahrawi/ecr-tool-pro-updates/releases/download/v4.3.2/ECR_Tool_Pro_v4.3.2.zip",
     "changelog": [
-        "NEW: ePOS tab — DLL-based POS integration",
-        "NEW: Environment switching (UAT/Production)",
-        "NEW: Settings Dialog for ePOS",
-        "FIX: Binary TCPIP HTTP POST",
-        "FIX: Response section H2H style"
+        "Build config fix — proper PyInstaller spec",
+        "Auto-updater skips user custom folders",
+        "User certs, settings, presets safe during update"
     ],
     "mandatory": false
 }
-
