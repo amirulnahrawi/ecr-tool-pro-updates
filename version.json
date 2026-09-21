@@ -1,10 +1,8 @@
 {
-    "version": "4.3.2",
-    "download_url": "https://github.com/amirulnahrawi/ecr-tool-pro-updates/releases/download/v4.3.2/ECR_Tool_Pro_v4.3.2.zip",
+    "version": "4.3.3",
+    "download_url": "https://github.com/amirulnahrawi/ecr-tool-pro-updates/releases/download/v4.3.3/ECR_Tool_Pro_v4.3.3.zip",
     "changelog": [
-        "Build config fix — proper PyInstaller spec",
-        "Auto-updater skips user custom folders",
-        "User certs, settings, presets safe during update"
+        "Fixed auto-updater URL"
     ],
     "mandatory": false
 }
