@@ -1,8 +1,8 @@
 {
-    "version": "4.3.3",
-    "download_url": "https://github.com/amirulnahrawi/ecr-tool-pro-updates/releases/download/v4.3.3/ECR_Tool_Pro_v4.3.3.zip",
+    "version": "4.3.4",
+    "download_url": "https://github.com/amirulnahrawi/ecr-tool-pro-updates/releases/download/v4.3.4/ECR_Tool_Pro_v4.3.4.zip",
     "changelog": [
-        "Fixed auto-updater URL"
+        "Fixed auto-updater URL — GitHub Pages"
     ],
     "mandatory": false
 }
