@@ -1,8 +1,9 @@
 {
-    "version": "4.3.4",
-    "download_url": "https://github.com/amirulnahrawi/ecr-tool-pro-updates/releases/download/v4.3.4/ECR_Tool_Pro_v4.3.4.zip",
+    "version": "4.3.5",
+    "download_url": "https://github.com/amirulnahrawi/ecr-tool-pro-updates/releases/download/v4.3.5/ECR_Tool_Pro_v4.3.5.zip",
     "changelog": [
-        "Fixed auto-updater URL — GitHub Pages"
+        "Fixed auto-updater install error (file lock)",
+        "Batch script update — replace files after app closes"
     ],
     "mandatory": false
 }
