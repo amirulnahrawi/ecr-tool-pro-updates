@@ -1,6 +1,6 @@
 {
-  "version": "4.3.11",
-  "download_url": "https://github.com/amirulnahrawi/ecr-tool-pro-updates/releases/download/v4.3.11/ECR_Tool_Pro_v4.3.11.zip",
-  "changelog": ["Fixed Settlement button visibility", "DuitNow query reads OrgResponseCode", "Removed Account Number from Void/Refund"],
+  "version": "4.3.12",
+  "download_url": "https://github.com/amirulnahrawi/ecr-tool-pro-updates/releases/download/v4.3.12/ECR_Tool_Pro_v4.3.12.zip",
+  "changelog": ["Fixed Reprint command not sending amount"],
   "mandatory": false
 }
