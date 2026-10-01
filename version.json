@@ -1,6 +1,6 @@
 {
-  "version": "4.3.12",
-  "download_url": "https://github.com/amirulnahrawi/ecr-tool-pro-updates/releases/download/v4.3.12/ECR_Tool_Pro_v4.3.12.zip",
-  "changelog": ["Fixed Reprint command not sending amount"],
+  "version": "4.4.0",
+  "download_url": "https://github.com/amirulnahrawi/ecr-tool-pro-updates/releases/download/v4.4.0/ECR_Tool_Pro_v4.4.0.zip",
+  "changelog": ["Auto CSV update from GitHub on startup"],
   "mandatory": false
 }
