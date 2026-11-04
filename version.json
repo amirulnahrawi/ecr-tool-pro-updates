@@ -1,5 +1,13 @@
 {
     "version": "4.6.0",
     "download_url": "https://github.com/amirulnahrawi/ecr-tool-pro-updates/releases/download/v4.6.0/ECR.Tool.Pro.zip",
-    "changelog": "v4.6.0: MBB protocol support (Sale, Void, Refund, Settlement), protocol selector, MBB message builder/parser, serial STX/ETX framing"
+    "changelog": [
+        "MBB protocol support (Sale, Void, Refund, Settlement)",
+        "Protocol selector (OGL/MBB/CIMB) with auto-baudrate",
+        "MBB message builder with XOR check digit",
+        "MBB response parser with decoded display",
+        "MBB serial STX/ETX framing for reliable capture",
+        "OGL-only buttons auto-disabled when MBB selected",
+        "Fixed ECR Invoice generation timing"
+    ]
 }
