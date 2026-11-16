@@ -1,10 +1,11 @@
 {
-    "version": "4.7.0",
-    "download_url": "https://github.com/amirulnahrawi/ecr-tool-pro-updates/releases/download/v4.7.0/ECR.Tool.Pro.zip",
-    "changelog": [
-        "H2H/IPECR/ePOS: URL field now editable (user can override endpoint)",
-        "H2H/ePOS: Added TTPDUITNOW product code",
-        "H2H/IPECR/ePOS: Auto Fields and User Input side-by-side layout",
-        "product_list.csv: 287 products (113 unique codes)"
-    ]
+  "version": "4.8.0",
+  "download_url": "https://github.com/amirulnahrawi/ecr-tool-pro-updates/releases/download/v4.8.0/ECR.Tool.Pro.zip",
+  "changelog": [
+    "CIMB Hypercomm protocol (Sale, Void, Refund, Settlement, E-wallet, Check Status)",
+    "Log Decoder rewrite — 5 protocols (OGL, MBB, CIMB, IPECR, H2H)",
+    "Log Decoder — Decoded text view, Table view, Raw Data view",
+    "H2H Server CA browse button in Settings",
+    "Bug fixes — ePOS env, CIMB settlement, MBB check digit, ECR Invoice"
+  ]
 }
