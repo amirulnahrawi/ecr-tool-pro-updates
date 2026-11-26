@@ -1,11 +1,15 @@
 {
-  "version": "4.8.0",
-  "download_url": "https://github.com/amirulnahrawi/ecr-tool-pro-updates/releases/download/v4.8.0/ECR.Tool.Pro.zip",
+  "version": "5.0.0",
+  "download_url": "https://github.com/amirulnahrawi/ecr-tool-pro-updates/releases/download/v5.0.0/ECR-Tool-Pro-v5.0.0.zip",
+  "mandatory": false,
   "changelog": [
-    "CIMB Hypercomm protocol (Sale, Void, Refund, Settlement, E-wallet, Check Status)",
-    "Log Decoder rewrite — 5 protocols (OGL, MBB, CIMB, IPECR, H2H)",
-    "Log Decoder — Decoded text view, Table view, Raw Data view",
-    "H2H Server CA browse button in Settings",
-    "Bug fixes — ePOS env, CIMB settlement, MBB check digit, ECR Invoice"
+    "Splash screen on startup (ePOS check, update check)",
+    "Smart config deep merge (new envs auto-add, kekal user data)",
+    "Added UAT OGL environment (H2H & ePOS)",
+    "Malaysia National QR style (DUITNOWQRC & TTPDUITNOW)",
+    "Fixed race condition - UNMATCHED TRANSACTION on rapid send",
+    "Fixed Qt timer threading warnings",
+    "ePOS: Removed DUITNOWDQR, INI to JSON migration",
+    "Transaction Settings layout reorder"
   ]
 }
